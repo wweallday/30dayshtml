@@ -222,27 +222,97 @@ You don't have to have all the mentioned above features when you develop a websi
 ## Exercises
 
 1. What is web development?
+Answer: as the lesson said "web dev" is design, build, test and maintain TLDR: a website full cycle or website full life from the begining to the end
 2. What is frontend?
+Ans: frontend is what you see or what display on the screen include the interaction with buttons, etc
 3. Mention at least four frontend technologies
+ans: html css javascript does javascript lib counts( react etc)
 4. What is backend?
+ans: backend is what happen behind the scene (what proccesses doesnt need to be dispaly)
 5. Mention at least four backend technologies
+ans: Fastapi, Go, Node.js, PHP
 6. What is full-stack
+Ans: full-stack is one man army do all the front and the backend 
 7. What is client?
+Ans: Client is the user
 8. What is server
+Ans: server is a computer, but in web dev term server is the thing that keep the web alive from hosting to proccess data from the client
 9. What is HTTP?
+Ans: a communication between client and server
 10. What is HTTP request ?
+Ans: request is when client want something from the server
 11. What is HTTP response?
+Ans: response is what the word means a response from server to client
 12. What are the necessary tools for a web development?
+Ans: internet, browser, ide, etc
 13. Mention parts of a website
+Ans: header, body, button, forms, links, images, etc
 14. What is the purpose of HTML
+Ans: so client and server can communicate
 15. What is the purpose of CSS?
+ANs: IMO css is the wardrobe it contains the clothes ( color of website), its a tool help you show your style to a client
 16. What is the purpose of JavaScript
+Ans: IMO javascript is how do show your style (CSS) to the client
 17. Is it possible to develop using only HTML?
+Ans: yes but what cost?
 18. Is there any strict guidelines what a website should look like?
+Ans: somewhere in between you can def break the guidelines but the downside is more than upside
 19. What are Git and GitHub? Did you install Git? Do you have GitHub account?
+Ans: git is version control your code, and github is where you go to do git
 20. Do you need a prototype or mockup or a wireframe before you start building the website?
+Ans: No but a chef doesnt create their own dish in the first time they cook (if you know what i mean)
 21. First open this [website](http://info.cern.ch/hypertext/WWW/TheProject.html), then right click on the page then click source, after that you will get an HTML source code. Count the number of the different HTML tag that have been used on this site.
+<html><head></head><body><header>
+<title>The World Wide Web project</title>
+<nextid n="55">
+</nextid></header>
 
+<h1>World Wide Web</h1>The WorldWideWeb (W3) is a wide-area<a name="0" href="WhatIs.html">
+hypermedia</a> information retrieval
+initiative aiming to give universal
+access to a large universe of documents.<p>
+Everything there is online about
+W3 is linked directly or indirectly
+to this document, including an <a name="24" href="Summary.html">executive
+summary</a> of the project, <a name="29" href="Administration/Mailing/Overview.html">Mailing lists</a>
+, <a name="30" href="Policy.html">Policy</a> , November's  <a name="34" href="News/9211.html">W3  news</a> ,
+<a name="41" href="FAQ/List.html">Frequently Asked Questions</a> .
+</p><dl>
+<dt><a name="44" href="../DataSources/Top.html">What's out there?</a>
+</dt><dd> Pointers to the
+world's online information,<a name="45" href="../DataSources/bySubject/Overview.html"> subjects</a>
+, <a name="z54" href="../DataSources/WWW/Servers.html">W3 servers</a>, etc.
+</dd><dt><a name="46" href="Help.html">Help</a>
+</dt><dd> on the browser you are using
+</dd><dt><a name="13" href="Status.html">Software Products</a>
+</dt><dd> A list of W3 project
+components and their current state.
+(e.g. <a name="27" href="LineMode/Browser.html">Line Mode</a> ,X11 <a name="35" href="Status.html#35">Viola</a> ,  <a name="26" href="NeXT/WorldWideWeb.html">NeXTStep</a>
+, <a name="25" href="Daemon/Overview.html">Servers</a> , <a name="51" href="Tools/Overview.html">Tools</a> ,<a name="53" href="MailRobot/Overview.html"> Mail robot</a> ,<a name="52" href="Status.html#57">
+Library</a> )
+</dd><dt><a name="47" href="Technical.html">Technical</a>
+</dt><dd> Details of protocols, formats,
+program internals etc
+</dd><dt><a name="40" href="Bibliography.html">Bibliography</a>
+</dt><dd> Paper documentation
+on  W3 and references.
+</dd><dt><a name="14" href="People.html">People</a>
+</dt><dd> A list of some people involved
+in the project.
+</dd><dt><a name="15" href="History.html">History</a>
+</dt><dd> A summary of the history
+of the project.
+</dd><dt><a name="37" href="Helping.html">How can I help</a> ?
+</dt><dd> If you would like
+to support the web..
+</dd><dt><a name="48" href="../README.html">Getting code</a>
+</dt><dd> Getting the code by<a name="49" href="LineMode/Defaults/Distribution.html">
+anonymous FTP</a> , etc.
+</dd></dl>
+
+</body></html>
+
+7?
 # Day - 2
 
 ## Setting Development Environment
