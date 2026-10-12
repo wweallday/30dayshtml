@@ -451,14 +451,23 @@ Comment in any programming language help a code to be more readable. Therefore, 
 ## Exercise
 
 1. What is the acronym HTML stands for?
+. ans: hypertext markup language
 2. What is an HTML element?
+. ans: html element consists of opening tag content and closing tag
 3. What is an attribute
+. ans: an attribute is additonal info about the element of a website?
 4. Write at least five HTML attributes
+. ans: alt autocomplete autoplay cols style
 5. Where do you write an attribute to HTML element?
+. ans: inside the opining tag?
 6. Write an HTML comment that says, I am enjoying 30 Days of HTML
+<!-- this is an HTML comment and i am enjoying 30 days of html -->
 7. What is the purpose of Visual studio code?
+I am already using neovim to answer those questions, fair enough right?
 8. What is the purpose of the browser?
+same answer as question 7, i already did production ready fastapi and work with frontend guy so i know what is a browser is
 9. Does every element need to have attributes?
+. ans: optional
 
 # Day 3
 
