@@ -833,10 +833,15 @@ Congratulations! You have completed Day 3 challenge
 ## Exercise
 
 1. What is the acronym DOM stands for?
+document object model
 2. What is the root of the DOM tree?
+html root element?
 3. What are the children of _html_ tag
+head and body
 4. How many children can the head have?
+1?
 5. How many children can the body have?  
+infinity?
    Make a DOM tree of the following HTML code
 
 ```html
@@ -867,9 +872,16 @@ Congratulations! You have completed Day 3 challenge
   </body>
 </html>
 ```
+html -> head , body
+head -> title
+body -> header, main, footer
+header -> span
+main -> section
+footer -> small
+section -> h1, p
+
 
 # Day 4
-
 ## Blocking and Non-blocking Elements
 
 HTML elements are like a box. Some elements take the whole width of the view port while some take as much space that fit only for the content. In another way, some elements do not allow other elements to come next them both in the left and right side, however, some elements allow other elements to come next to them.
