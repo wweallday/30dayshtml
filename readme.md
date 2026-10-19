@@ -1102,10 +1102,15 @@ To create a new line between non-blocking elements we can use the break(br) elem
 ## Exercises
 
 1. What is blocking element?
+ans: blocking element is element taking the whole width of the viewport
 2. What is non-blocking element?
+ans: take space enough for its content
 3. What is the difference between block and non-blocking elements?
+ans: im not sure what do you mean? but its ques 1 and 2 combine?
 4. List at least five blocking elements
+ans: article, address, h1-h6, form, main
 5. List at least five non-blocking elements
+ans: script, button, q, time, var
 
 # Day 5
 
