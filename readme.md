@@ -1278,15 +1278,25 @@ Congratulations! Now, you knew about metadata.
 ## Exercises
 
 1. What are metadata elements?
+ans: metadata provide more info about the html doc
 2. What is id?
+ans: id is an unique 
 3. What is the difference between id and class?
+ans: id is only used onnce? and class is a group? 
 4. What the is the difference between style and script?
+ans: style is color, etc CSS script is JS code?
 5. What is SEO?
+ans: search engine optimization
 6. Which meta tags help to improve SEO?
+ans: description, keywords, author
 7. What is internal style?
+ans: internal style define in the html file?
 8. What tag do you use to write external style?
+ans: external style define outside file?
 9. What is the difference between internal style and external style?
+ans: can use sepearte file to define style?
 10. What HTML tag do you use to write a JavaScript code?
+ans: script
 
 # Day 8
 
